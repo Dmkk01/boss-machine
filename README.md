@@ -11,6 +11,13 @@ In this project, you will create an entire API to serve information to a Boss Ma
 - React.js
 - React Redux
 
+## Screenshots
+![1](images/s1.png)
+<br> 
+![2](images/s2.png)
+<br> 
+![3](images/s3.png)
+
 ## Setup
 
 - Install dependencies
